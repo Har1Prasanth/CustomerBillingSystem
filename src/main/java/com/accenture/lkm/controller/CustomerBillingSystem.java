@@ -18,6 +18,10 @@ import org.springframework.web.bind.annotation.*;
 import com.accenture.lkm.business.bean.CustomerBean;
 import com.accenture.lkm.service.CustomerService;
 import springfox.documentation.annotations.ApiIgnore;
+/*
+* Controller for Customer Billing System. Added Comments for more readability
+*
+* */
 
 @RestController
 @Api(tags = "CustomerBillingSystem")
